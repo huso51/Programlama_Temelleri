@@ -1,0 +1,26 @@
+C:\Users\zafer\source\repos\BTKAkademi.ProgramlamaTemelleri\BTKAkademi.ProgramlamaTemelleri\bin\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.exe
+C:\Users\zafer\source\repos\BTKAkademi.ProgramlamaTemelleri\BTKAkademi.ProgramlamaTemelleri\bin\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.deps.json
+C:\Users\zafer\source\repos\BTKAkademi.ProgramlamaTemelleri\BTKAkademi.ProgramlamaTemelleri\bin\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.runtimeconfig.json
+C:\Users\zafer\source\repos\BTKAkademi.ProgramlamaTemelleri\BTKAkademi.ProgramlamaTemelleri\bin\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.runtimeconfig.dev.json
+C:\Users\zafer\source\repos\BTKAkademi.ProgramlamaTemelleri\BTKAkademi.ProgramlamaTemelleri\bin\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.dll
+C:\Users\zafer\source\repos\BTKAkademi.ProgramlamaTemelleri\BTKAkademi.ProgramlamaTemelleri\bin\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.pdb
+C:\Users\zafer\source\repos\BTKAkademi.ProgramlamaTemelleri\BTKAkademi.ProgramlamaTemelleri\obj\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.csprojAssemblyReference.cache
+C:\Users\zafer\source\repos\BTKAkademi.ProgramlamaTemelleri\BTKAkademi.ProgramlamaTemelleri\obj\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.AssemblyInfoInputs.cache
+C:\Users\zafer\source\repos\BTKAkademi.ProgramlamaTemelleri\BTKAkademi.ProgramlamaTemelleri\obj\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.AssemblyInfo.cs
+C:\Users\zafer\source\repos\BTKAkademi.ProgramlamaTemelleri\BTKAkademi.ProgramlamaTemelleri\obj\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.csproj.CoreCompileInputs.cache
+C:\Users\zafer\source\repos\BTKAkademi.ProgramlamaTemelleri\BTKAkademi.ProgramlamaTemelleri\obj\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.dll
+C:\Users\zafer\source\repos\BTKAkademi.ProgramlamaTemelleri\BTKAkademi.ProgramlamaTemelleri\obj\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.pdb
+C:\Users\zafer\source\repos\BTKAkademi.ProgramlamaTemelleri\BTKAkademi.ProgramlamaTemelleri\obj\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.genruntimeconfig.cache
+F:\Courses\BTK AKADEMİ\YENI_PAKET\PROGRAMLAMA\VS\BTKAkademi.ProgramlamaTemelleri\bin\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.exe
+F:\Courses\BTK AKADEMİ\YENI_PAKET\PROGRAMLAMA\VS\BTKAkademi.ProgramlamaTemelleri\bin\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.deps.json
+F:\Courses\BTK AKADEMİ\YENI_PAKET\PROGRAMLAMA\VS\BTKAkademi.ProgramlamaTemelleri\bin\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.runtimeconfig.json
+F:\Courses\BTK AKADEMİ\YENI_PAKET\PROGRAMLAMA\VS\BTKAkademi.ProgramlamaTemelleri\bin\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.runtimeconfig.dev.json
+F:\Courses\BTK AKADEMİ\YENI_PAKET\PROGRAMLAMA\VS\BTKAkademi.ProgramlamaTemelleri\bin\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.dll
+F:\Courses\BTK AKADEMİ\YENI_PAKET\PROGRAMLAMA\VS\BTKAkademi.ProgramlamaTemelleri\bin\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.pdb
+F:\Courses\BTK AKADEMİ\YENI_PAKET\PROGRAMLAMA\VS\BTKAkademi.ProgramlamaTemelleri\obj\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.csprojAssemblyReference.cache
+F:\Courses\BTK AKADEMİ\YENI_PAKET\PROGRAMLAMA\VS\BTKAkademi.ProgramlamaTemelleri\obj\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.AssemblyInfoInputs.cache
+F:\Courses\BTK AKADEMİ\YENI_PAKET\PROGRAMLAMA\VS\BTKAkademi.ProgramlamaTemelleri\obj\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.AssemblyInfo.cs
+F:\Courses\BTK AKADEMİ\YENI_PAKET\PROGRAMLAMA\VS\BTKAkademi.ProgramlamaTemelleri\obj\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.csproj.CoreCompileInputs.cache
+F:\Courses\BTK AKADEMİ\YENI_PAKET\PROGRAMLAMA\VS\BTKAkademi.ProgramlamaTemelleri\obj\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.dll
+F:\Courses\BTK AKADEMİ\YENI_PAKET\PROGRAMLAMA\VS\BTKAkademi.ProgramlamaTemelleri\obj\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.pdb
+F:\Courses\BTK AKADEMİ\YENI_PAKET\PROGRAMLAMA\VS\BTKAkademi.ProgramlamaTemelleri\obj\Debug\netcoreapp3.1\BTKAkademi.ProgramlamaTemelleri.genruntimeconfig.cache
